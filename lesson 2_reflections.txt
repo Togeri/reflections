@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository, a .git folder is created, containing metadata about the changes in the different files you have inside this repository, keeping a chronological order of those changes. 
 No commits are created at the initialization of a repository.
@@ -10,6 +10,10 @@ ________________________________________________________________________________
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+The stating area is a pre-step so-to-speak in which we put every file we want to be commited at a time. The Working Directory is just the directory in which we´re working with the files we want to be commited, and the repository is the whole directory with every single file belonging to the particular git file, regardless wether we´re working with them currently or not.
+
+________________________________________________________________________________
 
 How can you use the staging area to make sure you have one commit per logical
 change?
