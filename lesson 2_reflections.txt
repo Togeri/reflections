@@ -32,6 +32,10 @@ try different things without any risk of damaging your code
 ________________________________________________________________________________
 
 How do the diagrams help you visualize the branch structure?
+
+The help us visualize the commit history/log and give us information about branches history, not just the master branch.
+
+In this way, it´s easier to keep up track of the master branch and the secondary branches that are been worked on. 
 ________________________________________________________________________________
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
