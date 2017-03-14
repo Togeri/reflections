@@ -26,3 +26,16 @@ Branches are just divergent paths of the program´s main path, which is usually c
 Forks works the same as clones but instead acknowledge the creator of the repository. This cloned repository remains only in GitHub.
 
 _____________________________________________________________________
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+By having a copy of the last known state of the remote in your computer, you can keep track of all the changes carried by other people (or by yourself in GitHub) while you weren´t working on that program on your computer
+
+_____________________________________________________________________
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I guess sharing my code within another platform. 
+But Git and GitHub are indeed really simple yet powerfull developers tools for collaboration, sharing and working.
+
+_____________________________________________________________________
