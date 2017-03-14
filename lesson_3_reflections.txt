@@ -39,3 +39,11 @@ I guess sharing my code within another platform.
 But Git and GitHub are indeed really simple yet powerfull developers tools for collaboration, sharing and working.
 
 _____________________________________________________________________
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When these changes are really sensitive regarding the program´s core, such an experimental feature that needs to be tested and you don´t want your code to break. 
+
+The master commit has the benefit of being really simple and easy to keep track off.
+
+The branch commit has the benefit of experimenting along your code without facing the danger of breaking it.
